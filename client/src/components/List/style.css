@@ -1,0 +1,33 @@
+/* .list-overflow-container {
+  border: 1px #DDDDDD solid;
+  border-radius: 0px;
+} */
+
+.list-overflow-container ul {
+  margin: 0;
+}
+
+.list-overflow-container li {
+  border-radius: 0px;
+}
+
+.list-overflow-container li a {
+  color: rgb(0, 3, 3);
+}
+
+.list-overflow-container li:first-child {
+  border-top: 1px solid black;
+}
+
+.list-overflow-container li:last-child {
+  border-bottom: none;
+}
+
+.list-group-item {
+  border-bottom: 4px solid #04153D;
+}
+
+.jumbotron {
+  margin-bottom: 0;
+  border-radius: 0;
+}
